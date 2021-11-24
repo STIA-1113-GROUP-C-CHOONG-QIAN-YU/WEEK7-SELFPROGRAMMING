@@ -4,11 +4,14 @@ public class LoopExercise2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		for (int number=2; number<20; number++)
+		int num;
+		for (num=2; num<20; num++)
 		{
-			number = number *2;
-			if (number < 15)
-				System.out.println(number);
+			num = num *2;
+			if (num < 15)
+				System.out.println("The number is smaller than 15: " + num);
+			else if (num >15)
+				System.out.println("The number is greater than 15: " + num);
 		}
 			
 	}
