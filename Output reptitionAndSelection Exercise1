@@ -1,0 +1,18 @@
+Enter a random number(0-100): 
+20
+You number is too high
+Enter a random number(0-100): 
+10
+Your number is too low
+Enter a random number(0-100): 
+17
+You number is too high
+Enter a random number(0-100): 
+15
+You number is too high
+Enter a random number(0-100): 
+14
+You number is too high
+Enter a random number(0-100): 
+12
+Congratulations!
